@@ -1,4 +1,7 @@
-<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<head>
+    <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <head>
 
 <div class="content">
   <div class="content__container">
