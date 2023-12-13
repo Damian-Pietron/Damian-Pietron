@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damian Pietron
+<b><p align="center">Hi My name is Damian Pietron</p></b>
 ======================================================================================================================================
 
 <b><p align="center">Medical informatics student</p></b>
@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate about programming, leader of a scientific circle currently learning about AI and ML
 
 * 🌍  I'm based in Wroclaw
-* ✉️  You can contact me at [275277@studen.pwr.edu.pl](mailto:275277@studen.pwr.edu.pl)
+* ✉️  You can contact me at [275277@student.pwr.edu.pl](mailto:275277@studen.pwr.edu.pl)
 * 🧠  I'm learning Scikitlearn, Django
 * 🤝  I'm open to collaborating on Interesting projects invlowing using Python, kotlin or Java
 * ⚡  I like philosophy and programming is essentialy what i do most days :)
