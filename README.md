@@ -8,7 +8,7 @@ Passionate about programming, leader of a scientific circle currently learning a
 
 * 🌍  I'm based in Wroclaw
 * ✉️  You can contact me at [275277@student.pwr.edu.pl](mailto:275277@studen.pwr.edu.pl)
-* 🧠  I'm learning Scikitlearn, Django
+* 🧠  I'm learning Scikitlearn, Django, NoSQL, MongoDB, Dart, Java
 * 🤝  I'm open to collaborating on Interesting projects invlowing using Python, kotlin or Java
 * ⚡  I like philosophy and programming is essentialy what i do most days :)
 
