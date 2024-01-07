@@ -20,6 +20,7 @@ Passionate about programming, leader of a scientific circle currently learning a
 </p>
 
 [![wakatime](https://wakatime.com/badge/github/neuropython/pythonSoftwareDevelopmentProject.svg)](https://wakatime.com/badge/github/neuropython/pythonSoftwareDevelopmentProject)
+[![wakatime](https://wakatime.com/badge/github/neuropython/mobileAppDevelopmentProject.svg)](https://wakatime.com/badge/github/neuropython/mobileAppDevelopmentProject)
 ### Socials
 
 <p align="center"> <a href="https://www.github.com/neuropython" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
