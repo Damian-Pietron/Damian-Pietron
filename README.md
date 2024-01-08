@@ -2,7 +2,7 @@
 ======================================================================================================================================
 
 <b><p align="center">Medical informatics student</p></b>
----------------------------
+---------------------------    
 
 Passionate about programming, leader of a scientific circle currently learning about AI and ML
 
