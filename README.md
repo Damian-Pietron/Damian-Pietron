@@ -30,8 +30,37 @@ Passionate about programming, leader of a scientific circle currently learning a
 
 <p align="center"><b>My GitHub Stats</b></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuropython&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<br clear="both">
 
-<p align="center"><a href="http://www.github.com/neuropython"><img src="https://github-readme-stats.vercel.app/api?username=neuropython&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="neuropython's GitHub stats" /></a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neuropython&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=codeSTACKr&hide_border=true&order=2" height="100" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neuropython&radius=10&theme=one-dark&area=true&order=5&custom_title=Statictics&hide_border=true&bg_color=0d1117&color=dddddd&line=dddddd&point=0d1117&area_color=dddddd" height="200" alt="activity-graph graph"  />
+</div>
 
-<p align="center"><a href="http://www.github.com/neuropython"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neuropython&stroke=ffffff&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+###
+
+<p align="center"></p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/damian-pietro%C5%84-36343826b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="cublockop" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.facebook.com/damian.pietron.79/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mailto:275277@student.pwr.edu.pl?subject=Cooperation&body=Hi%20damian%20i%20have%20found%20you%20on%20github%2C%20I%20want%20to%20..." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=scarop69)
+
