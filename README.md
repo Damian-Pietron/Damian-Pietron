@@ -1,9 +1,9 @@
-<b><p align="center">Damian Pietroń</p></b>
-======================================================================================================================================
+<b><p align="center">
+<h1 align="center">
+  <img src="https://github.com/neuropython/neuropython/blob/main/damian.svg" alt="Damian Pietroń" />
+</h1>
+</p></b>
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="200">
-</div>
 
 <h3 align="center">About Me</h3>
 
