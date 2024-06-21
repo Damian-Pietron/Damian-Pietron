@@ -46,48 +46,6 @@
 
 ---------------------------    
 
-<h3>
-  <b>
-    <p align = "center">
-  :sunglasses: Socials :sunglasses:
-    </p>
-  </b>
-</h3>
 <p align="center"></p>
 
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/damian-pietro%C5%84-36343826b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="cublockop" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="https://www.facebook.com/damian.pietron.79/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="mailto:275277@student.pwr.edu.pl?subject=Cooperation&body=Hi%20damian%20i%20have%20found%20you%20on%20github%2C%20I%20want%20to%20..." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
----------------------------    
-
-<h3>
-  <b>
-    <p align = "center">
-  :notes: And some additional music :notes:
-    </p>
-  </b>
-</h3>
-<div align = "center">
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=scarop69)
-</div>
-
----------------------------    
