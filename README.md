@@ -4,7 +4,6 @@
 </h1>
 </p></b>
 
----
 
 ### Current Projects:
 
