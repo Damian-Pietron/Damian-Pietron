@@ -22,12 +22,6 @@
 - CLLE - professionaly 
 </p>
 
-
-  <h3><b><p align = "center">:heavy_check_mark:Contributions:heavy_check_mark:</p></b></h3>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neuropython&radius=10&theme=dark&area=true&order=5&custom_title=Statictics&hide_border=true&bg_color=0d1117&color=dddddd&line=dddddd&point=0d1117&area_color=dddddd" height="400" alt="activity-graph graph"  />
-</div>
-
 ###
 
 ---------------------------    
