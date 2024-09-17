@@ -12,10 +12,10 @@
   *Because cars don’t code themselves… yet.*
   
 - **Tampere University** – Open Source  
-  *I contribute, they innovate. Everyone wins.*
+  *Contributing code and praying nothing breaks, because open source bugs come back like bad hangovers.*
 
 - **Wroclaw University of Science and Technology** – Open Source  
-  *Science, technology, and me trying not to break things.*
+  *Turning bugs into features, one caffeinated crisis at a time.*
 
 *Too many places? Nah, just keeping my procrastination game at bay.*
 
@@ -27,7 +27,7 @@
   *Making snakes proud since [insert year]*
 
 - **RPGLE** – Professional  
-  *Yes, it’s as magical as it sounds.*
+  *Coding like it’s the '90s, but with less floppy disks and more caffeine.*
 
 - **CLLE** – Professional  
   *Not a typo, just part of the secret sauce.*
