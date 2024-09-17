@@ -15,7 +15,7 @@
 
 ---------------------------    
 
-<h3><b><p align = "center">:fire:I was also coding in::fire:</p></b></h3>
+I was also coding in:
 
 - Python - professionaly
 - RPGLE - professionaly
