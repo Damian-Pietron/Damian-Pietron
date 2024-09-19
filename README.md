@@ -23,13 +23,10 @@
 ### Languages I Code In:
 
 - **Python** – Professional  
-  *Making snakes proud since [insert year]*
 
 - **RPGLE** – Professional  
-  *Coding like it’s the '90s, but with less floppy disks and more caffeine.*
 
 - **CLLE** – Professional  
-  *Not a typo, just part of the secret sauce.*
 
 ---
 
