@@ -4,32 +4,6 @@
 </h1>
 </p></b>
 
-
-### Current Projects:
-
-- **Volvo**  
-  *Because cars don’t code themselves… yet.*
-  
-- **Tampere University** – Open Source  
-  *Contributing code and praying nothing breaks, because open source bugs come back like bad hangovers.*
-
-- **Wroclaw University of Science and Technology** – Open Source  
-  *Turning bugs into features, one caffeinated crisis at a time.*
-
-*Too many places? Nah, just keeping my procrastination game at bay.*
-
----
-
-### Languages I Code In:
-
-- **Python** – Professional  
-
-- **RPGLE** – Professional  
-
-- **CLLE** – Professional  
-
----
-
 ### Fun Fact:
 *I code so fast that my computer has to light up a joint to keep up!*
 
