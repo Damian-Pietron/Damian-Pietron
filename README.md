@@ -4,7 +4,6 @@
 </h1>
 </p></b>
 
-### Fun Fact:
-*I code so fast that my computer has to light up a joint to keep up!*
+*I like to code*
 
 
