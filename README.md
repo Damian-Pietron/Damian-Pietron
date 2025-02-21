@@ -17,10 +17,8 @@
         </p>
         <h2 align="center">I work professionally with these technologies:</h2>
         <p align="center">
-            RPGLE, CLLE, REST API, YAJL, SQL, SQLRPGLE, Linux, IBM i, IBM MQ, Python
+            RPG, CL, IBM MQ, DB2, SQL (mostly free form), YAJL
         </p>
-        <h2 align="center">I am learning:</h2>
-        <p align="center">C, Go, Java</p>
     </p>
 </body>
 </html>
