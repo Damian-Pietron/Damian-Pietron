@@ -15,9 +15,6 @@
                 style="max-width:100%; height:auto;"
             />
         </p>
-        <p align="center">
-            In my work, I am developing event-driven backend on the IBM i platform.
-        </p>
         <h2 align="center">I work professionally with these technologies:</h2>
         <p align="center">
             RPGLE, CLLE, REST API, YAJL, SQL, SQLRPGLE, Linux, IBM i, IBM MQ, Python
