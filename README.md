@@ -7,7 +7,7 @@
 <body>
     <p align="center">
         <h1 align="center">Damian Pietron</h1>
-        <p align="center">I work at Volvo as an IBM i developer (Midrange Systems):</p>
+        <p align="center">I work at Volvo as an IBM i developer :</p>
         <p align="center">
             <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ibmi-main-menu.png/1280px-Ibmi-main-menu.png" 
