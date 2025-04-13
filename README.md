@@ -12,6 +12,10 @@
         <p align="center">
             RPGLE, CLLE, Python, IBM MQ, DB2, SQL, YAJL, IFS, git, GNU make, Code for i, Apache server, Turnover
         </p>
+            <h2 align="center">I can work with:</h2>
+        <p align="center">
+        COBOL, C, JCL, Java 
+        </p>
         <p>In Volvo I am developing REST aplication with sources on IFS. This application currently uses git as a source control and has some features of CI/CD cycle with Gnu make and automated python tests.</p>
     </p>
 </body>
