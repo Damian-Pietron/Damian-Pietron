@@ -10,7 +10,7 @@
         <p align="center">I work at Volvo as an IBM i developer</p>
         <h2 align="center">I work professionally with these technologies:</h2>
         <p align="center">
-            RPGLE, CLLE, Python, IBM MQ, DB2, SQL, YAJL, IFS, git, GNU make, Code for i, Apache server, Turnover, Linux/AIX
+            RPGLE, CLLE, Python, IBM MQ, DB2, SQL, YAJL, IFS, git, GNU make, Code for i, Apache server, Turnover, Linux
         </p>
             <h2 align="center">I can work with:</h2>
         <p align="center">
